@@ -3,3 +3,4 @@ from heatmappy.heatmap import Heatmapper,\
                               PILGreyHeatmapper,\
                               PySideGreyHeatmapper
 
+from heatmappy.video import VideoHeatmapper
